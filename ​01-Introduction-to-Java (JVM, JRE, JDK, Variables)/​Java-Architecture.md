@@ -142,11 +142,33 @@ Hello World
 Umesh pal
 
 ⚡ Pro Tip
-In VS Code / IntelliJ, you can use shortcut:
-"sysout" 👉 It auto-generates: System.out.println();
+In VS Code, you can use shortcut:
+"sysout" + Tab/Enter 👉 It auto-generates: System.out.println()
+
+In IntelliJ IDEA:
+"sout" + Tab/Enter 👉 It auto-generates: System.out.println()
 
 🎯 Summary
 Java code is first compiled into bytecode
 Then executed by JVM
 This makes Java platform-independent
 Output is generated using System.out.print() or println()     
+
+🖨️ Output Formatting & Variables in Java
+🔹 Escape Sequence in Java (\n)
+\n is used to move the output to the next line.
+✅ Example:
+System.out.print("Hello World\n");
+System.out.print("My name is Umesh Pal");
+
+📌 Output:
+Hello World
+My name is Umesh Pal
+
+🔹 Another Example
+System.out.print("Hello World with Java\nfrom Umesh Pal");
+📌 Output:
+Hello World with Java
+from Umesh Pal
+
+📦 Variables in Java
