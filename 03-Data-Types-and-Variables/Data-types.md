@@ -51,3 +51,11 @@ System.out.println(diff);
 👉 Output: 15
 </pre>
 
+🔹 Multiplication Code
+<pre>
+int mul = a * b;
+System.out.println(mul);
+</pre>
+<pre>
+👉 Output: 250
+</pre>
