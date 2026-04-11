@@ -155,7 +155,10 @@ sysout + Tab/Enter
 👉 It auto-generates: System.out.println()
 
 In IntelliJ IDEA:
-"sout" + Tab/Enter 👉 It auto-generates: System.out.println()
+<pre>
+"sout" + Tab/Enter
+</pre>
+👉 It auto-generates: System.out.println()
 
 🎯 Summary
 Java code is first compiled into bytecode
@@ -167,18 +170,26 @@ Output is generated using System.out.print() or println()
 🔹 Escape Sequence in Java (\n)
 \n is used to move the output to the next line.
 ✅ Example:
+<pre>
 System.out.print("Hello World\n");
 System.out.print("My name is Umesh Pal");
+</pre>
 
 📌 Output:
+<pre>
 Hello World
 My name is Umesh Pal
+</pre>
 
 🔹 Another Example
+<pre>
 System.out.print("Hello World with Java\nfrom Umesh Pal");
+</pre>
 📌 Output:
+<pre>
 Hello World with Java
 from Umesh Pal
+</pre>
 
 📦 Variables in Java
 🔹 Definition
@@ -190,7 +201,9 @@ Box Size → Data Type
 Stored Content → Value
 
 ✅ Example:
+<pre>
 int age = 20;
+</pre>
 🔍 Explanation:
 int → Data Type
 age → Variable Name
