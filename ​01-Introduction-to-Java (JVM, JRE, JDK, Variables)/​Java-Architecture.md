@@ -125,7 +125,9 @@ Source code is provided to the language translator which converts it into machin
 
 🖨️ Output in Java
 Basic Print Statement
+<pre>
 System.out.print("Hello World");
+</pre>
 🔍 Breakdown
 System → Class
 out → Output stream
@@ -134,16 +136,23 @@ print() → Function (method)
 ; → Statement terminator
 
 📌 Printing with New Line
+<pre>
 System.out.println("Hello World");
 System.out.print("Umesh pal");
+</pre>
 
 ✅ Output:
+<pre>
 Hello World
 Umesh pal
+</pre>
 
 ⚡ Pro Tip
 In VS Code, you can use shortcut:
-"sysout" + Tab/Enter 👉 It auto-generates: System.out.println()
+<pre>
+sysout + Tab/Enter
+</pre>
+👉 It auto-generates: System.out.println()
 
 In IntelliJ IDEA:
 "sout" + Tab/Enter 👉 It auto-generates: System.out.println()
