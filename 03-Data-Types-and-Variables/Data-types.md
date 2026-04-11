@@ -33,13 +33,14 @@ Byte = 8 switches together
 
 ➕ Java Arithmetic Example (VERY IMPORTANT)
 🔹 Addition Code
-
+<pre>
 int a = 10;
 int b = 25;
 int sum = a + b;
 System.out.println(sum);
 
 👉 Output: 35
+</pre>
 
 
 
