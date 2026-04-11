@@ -41,3 +41,13 @@ System.out.println(sum);
 
 👉 Output: 35
 </pre>
+
+🔹 Subtraction Code
+<pre>
+int diff = b - a;
+System.out.println(diff);
+</pre>
+<pre>
+👉 Output: 15
+</pre>
+
