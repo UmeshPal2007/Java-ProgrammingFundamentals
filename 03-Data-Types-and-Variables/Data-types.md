@@ -6,3 +6,16 @@ Data Types are divided into two group -
 Primitive - byte,short,int,long,float,double,boolean and char
 Non-Primitive - String, Arrays, Classes, Enums and Records
 
+📘 DATA TYPES (Java Basics)
+🔹 1. Types of Data Types
+✅ Primitive Data Types (Basic building blocks)
+These store simple values directly in memory.
+
+🚀 Non-Primitive Data Types (Reference types)
+These store addresses (references), not actual data.
+String
+Array
+Class
+Object
+Interface
+💡 Translation: These are used for real-world structured data.
