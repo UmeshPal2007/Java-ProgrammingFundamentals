@@ -2,13 +2,11 @@
 🚀INSTRUCTIONS : To execute the examples, copy the code into your preferred Java IDE or code editor, compile, and run the program.
 
 🚀 1. Hello World (Basic Output)
-    <pre>
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
 }
-</pre>
 
 ✅ Output:
 Hello World
