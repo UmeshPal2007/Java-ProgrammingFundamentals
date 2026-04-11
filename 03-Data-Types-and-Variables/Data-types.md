@@ -30,3 +30,16 @@ Standard unit in computer science
 🔥 Shortcut to remember:
 Bit = single switch
 Byte = 8 switches together
+
+➕ Java Arithmetic Example (VERY IMPORTANT)
+🔹 Addition Code
+
+int a = 10;
+int b = 25;
+int sum = a + b;
+System.out.println(sum);
+
+👉 Output: 35
+
+
+
