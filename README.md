@@ -10,7 +10,7 @@ Author-Umesh Pal
 
 <!-- ​📂 Project Structure -->
 ​The repository is organized by topic to make navigation easy:
-​01-Introduction to Java Language
+​01-Introduction to Java Language ☕ Java Programming Language – Overview
 02-Input/Output Variable & Data types
 03-Conditional Statements If else ; Switch-Break Statement
 04-Loops- For-while; Do-while;
@@ -19,7 +19,11 @@ Author-Umesh Pal
 07-Functions
 08-Time & Space Complexity
 09-Arrays
-10-
+10-Strings
+11-Strings Builder
+12-Operators & Binary Numbers
+13-Bit Manipulation
+14-
 ​
 <!-- Data Types and Variables- -->
 Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
@@ -48,7 +52,7 @@ Interface
 
 
 
-Lifecycle of a Program
+<!-- Lifecycle of a Program -->
 In Java, the program lifecycle consists of several distinct phases that work together to execute code. The process begins with developers writing Java source code in .java files using an IDE or text editor. This code is then compiled by the Java compiler (javac) into bytecode stored in .class files, with syntax and type checking performed during compilation. When the program runs, the Java Virtual Machine (JVM) loads these compiled class files into memory through a process involving loading of binary data, linking for verification and preparation, and initialization of class elements. The JVM then verifies the bytecode's security compliance, performs Just-In-Time (JIT) compilation to translate bytecode into native machine code for better performance, and executes the program instructions while managing system resources. Throughout execution, the JVM handles garbage collection by reclaiming memory from unused objects, and finally releases all resources upon program termination. This architecture enables Java's "write once, run anywhere" capability since the bytecode can execute on any device with a compatible JVM.
 
 ☕ The Java Life Cycle: From Code to Execution
@@ -78,8 +82,7 @@ Exit: The program terminates once all non-daemon threads finish or a manual exit
 
 
 
-☕ Java Programming Language – Overview
-
+<!-- ☕ Java Programming Language – Overview -->
 📌 Introduction
 Java is a high-level, object-oriented programming language known for its platform independence, robustness, and strong security features.
 It follows the principle:
