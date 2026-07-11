@@ -1,8 +1,7 @@
 # Java Programming Fundamentals
 Author-Umesh Pal
 <br>
-
-​A comprehensive collection of Java programs, exercises, projects and problem-solving practice designed to master the core concepts of the Java Programming language. This repository serves as a documented learning journey through Object-Oriented Programming (OOP), data structures & algorithms (DSA), and Java syntax.
+​A comprehensive collection of Java programs, exercises, projects and problem-solving practice designed to master the core concepts of the Java Programming language. This repository serves as a documented learning journey through Object-Oriented Programming (OOPs), data structures & algorithms (DSA), and Java syntax.
 <br>​
 
 <!-- 🚀 Overview -->
@@ -11,20 +10,67 @@ Author-Umesh Pal
 <!-- ​📂 Project Structure -->
 ​The repository is organized by topic to make navigation easy:
 ​01-Introduction to Java Language ☕ Java Programming Language – Overview
-02-Input/Output Variable & Data types
-03-Conditional Statements If else ; Switch-Break Statement
-04-Loops- For-while; Do-while;
-05-Best Patterns
-06-Advanced Patterns
+02-Input/Output Variables & Data types
+03-Operators
+04-Conditional Statements
+05-Loops & Nesting
+06-Advanced Patterns Problems
 07-Functions
-08-Time & Space Complexity
+08-Binary Number System
+09-Bitwise Operators
+09-Time & Space Complexity
 09-Arrays
 10-Strings
 11-Strings Builder
-12-Operators & Binary Numbers
+12-
 13-Bit Manipulation
 14-
-​
+
+ 
+​Data Structures & Algorithms (DSA)
+Maths Required For Data Structures & Algorithms (DSA)
+Arrays
+Pair Sum
+Vectors
+Kadane's Algorithm (Find Maximum Subarray Sum)
+Boyer Moore's Majority Vote Algorithm (Find Majority element in an Array)
+Buy & Sell Stock Problem (Power Exponential Problem)
+Container with most water Problem (Two Pointer Approach)
+Product of an Array except self
+Pointers
+Binary Search
+Search in a Rotated Sorted Array
+Peak Index in Mountain (Array Problem)
+Single Element in a Sorted Array
+Book Allocation Problem
+Painter's Partition Problem
+Aggressive Cows Problem
+Sorting-(Bubble Sort, Selection Sort, Insertion Sort)
+Sort an array of 0s, 1s & 2s.
+Merge Sorted Arrays Problem
+Next Permutation Problem
+C++ STL
+
+Strings (Part-1)
+Strings (Part-2) Valid Palindrome & Remove all Occurences
+Strings (Part-3) Permutation in String
+Strings (Part-4) Reverse word in a String
+Strings (Part-5) String Compression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Data Types and Variables- -->
 Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
 
