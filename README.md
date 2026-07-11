@@ -60,17 +60,17 @@ Strings (Part-5) String Compression
 
 
 
+08-Time & Space Complexity
+09-Data Structures & Algorithms(DSA)
+10-Arrays
+11-Strings
+12-Strings Builder
+13-Operators & Binary Numbers
+14-Bit Manipulation
+15-Object Oriented Programming(OOPs)
+16-Java Collections Framework
 
-
-
-
-
-
-
-
-
-
-
+​
 <!-- Data Types and Variables- -->
 Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
 
