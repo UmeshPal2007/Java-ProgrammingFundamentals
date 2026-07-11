@@ -4,12 +4,12 @@ Author-Umesh Pal
 ​A comprehensive collection of Java programs, exercises, projects and problem-solving practice designed to master the core concepts of the Java Programming language. This repository serves as a documented learning journey through Object-Oriented Programming (OOPs), data structures & algorithms (DSA), and Java syntax.
 <br>​
 
-<!-- 🚀 Overview -->
-​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOP principles.
+# 🚀 Overview
+​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
 
-<!-- ​📂 Project Structure -->
+# Project Structure
 ​The repository is organized by topic to make navigation easy:
-​01-Introduction to Java Language ☕ Java Programming Language – Overview
+​01-☕ Java Programming Language – Overview
 02-Input/Output Variables & Data types
 03-Operators
 04-Conditional Statements
@@ -25,7 +25,8 @@ Author-Umesh Pal
 12-
 13-Bit Manipulation
 14-
-
+15-Object Oriented Programming(OOPs)
+16-Java Collections Framework
  
 ​Data Structures & Algorithms (DSA)
 Maths Required For Data Structures & Algorithms (DSA)
@@ -58,77 +59,7 @@ Strings (Part-4) Reverse word in a String
 Strings (Part-5) String Compression
 
 
-
-
-08-Time & Space Complexity
-09-Data Structures & Algorithms(DSA)
-10-Arrays
-11-Strings
-12-Strings Builder
-13-Operators & Binary Numbers
-14-Bit Manipulation
-15-Object Oriented Programming(OOPs)
-16-Java Collections Framework
-
-​
-<!-- Data Types and Variables- -->
-Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
-
-Data Types are divided into two group -
-
-Primitive - byte,short,int,long,float,double,boolean and char
-Non-Primitive - String, Arrays, Classes, Enums and Records
-
-📘 DATA TYPES (Java Basics)
-🔹 1. Types of Data Types
-✅ Primitive Data Types (Basic building blocks)
-These store simple values directly in memory.
-
-🚀 Non-Primitive Data Types (Reference types)
-These store addresses (references), not actual data.
-String
-Array
-Class
-Object
-Interface
-💡 Translation: These are used for real-world structured data.
-
-
-
-
-
-
-<!-- Lifecycle of a Program -->
-In Java, the program lifecycle consists of several distinct phases that work together to execute code. The process begins with developers writing Java source code in .java files using an IDE or text editor. This code is then compiled by the Java compiler (javac) into bytecode stored in .class files, with syntax and type checking performed during compilation. When the program runs, the Java Virtual Machine (JVM) loads these compiled class files into memory through a process involving loading of binary data, linking for verification and preparation, and initialization of class elements. The JVM then verifies the bytecode's security compliance, performs Just-In-Time (JIT) compilation to translate bytecode into native machine code for better performance, and executes the program instructions while managing system resources. Throughout execution, the JVM handles garbage collection by reclaiming memory from unused objects, and finally releases all resources upon program termination. This architecture enables Java's "write once, run anywhere" capability since the bytecode can execute on any device with a compatible JVM.
-
-☕ The Java Life Cycle: From Code to Execution
-The journey of a Java program follows the "Write Once, Run Anywhere" (WORA) philosophy, facilitated by the Java Virtual Machine (JVM).
-1. Source Code Creation
-The process begins with the developer writing human-readable code in a text editor or IDE (like IntelliJ IDEA or Eclipse).
-File Extension: The source file must be saved with a .java extension (e.g., Main.java).
-2. Compilation (Build Time)
-The Java Compiler (javac), included in the JDK, translates the source code into an intermediate format.
-Output: A .class file containing Bytecode.
-Platform Independence: This bytecode is not specific to any OS, allowing it to run on any device with a compatible JVM.
-3. Class Loading & Linking
-When the program is run (using the java command), the JVM prepares the code:
-Loading: The ClassLoader brings the .class files into memory.
-Verification: The Bytecode Verifier checks for security violations or illegal instructions.
-Linking: The JVM resolves symbolic references and prepares static variables.
-4. Execution (Run Time)
-The JVM’s Execution Engine converts the platform-neutral bytecode into machine-specific instructions (binary) for the local CPU.
-Interpreter: Reads and executes bytecode line-by-line for a quick start.
-Just-In-Time (JIT) Compiler: Identifies "hot" (frequently used) code and compiles it into native machine code to significantly boost performance.
-5. Garbage Collection & Termination
-Memory Management: The Garbage Collector automatically identifies and removes objects no longer in use to free up heap memory.
-Exit: The program terminates once all non-daemon threads finish or a manual exit command (like System.exit()) is called.
-
-
-
-
-
-
-<!-- ☕ Java Programming Language – Overview -->
+# ☕ Java Programming Language – Overview
 📌 Introduction
 Java is a high-level, object-oriented programming language known for its platform independence, robustness, and strong security features.
 It follows the principle:
@@ -157,12 +88,8 @@ Compiler converts Java code into bytecode
 JVM (Java Virtual Machine) executes the bytecode on any platform
 
 💻 High-Level Programming Language
-A high-level language is:
-Easy to read and write
-Human-friendly
-Abstracted from machine-level complexity
-Still powerful enough to control system operations
-Examples:Python,Java,C++,JavaScript
+A high-level language is: Easy to read and write , Human-friendly, Abstracted from machine-level complexity & Still powerful enough to control system operations
+Examples:Python, Java, C++, JavaScript
 
 🛠️ Requirements to Run Java Programs
 Before writing your first Java program, you need:
@@ -287,16 +214,8 @@ In IntelliJ IDEA:
 <pre>
 "sout" + Tab/Enter
 </pre>
-👉 It auto-generates: System.out.println()
+👉 It auto-generates: System.out.println() 
 
-🎯 Summary
-Java code is first compiled into bytecode
-Then executed by JVM
-This makes Java platform-independent
-Output is generated using System.out.print() or println()     
-
-🖨️ Output Formatting & Variables in Java
-🔹 Escape Sequence in Java (\n)
 \n is used to move the output to the next line.
 ✅ Example:
 <pre>
@@ -310,42 +229,47 @@ Hello World
 My name is Umesh Pal
 </pre>
 
-🔹 Another Example
-<pre>
-System.out.print("Hello World with Java\nfrom Umesh Pal");
-</pre>
-📌 Output:
-<pre>
-Hello World with Java
-from Umesh Pal
-</pre>
 
-📦 Variables in Java
-🔹 Definition
-A variable is a named memory location used to store data that can change during program execution.
+# Input/Output Variables & Data Types
+Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
 
-🧠 Concept Breakdown
-Label → Variable Name
-Box Size → Data Type
-Stored Content → Value
+Data Types are divided into two group -
 
-✅ Example:
-<pre>
-int age = 20;
-</pre>
-🔍 Explanation:
-int → Data Type
-age → Variable Name
-20 → Value
+Primitive (store values directly in memory) - byte,short,int,long,float,double,boolean and char
+Non-Primitive (Reference types) - String, Arrays, Classes, Object and Interfaces
 
 ⚠️ Important Note
 Java is a strongly typed programming language, which means:
 👉 You must declare the data type of a variable before using it.
 
-🎯 Summary
-\n is used for line breaks in output
-System.out.print() and println() control output formatting
-Patterns can be printed using multiple print statements
-Variables store data in memory
-Java requires explicit data types for variables
+
+# Lifecycle of a Program
+In Java, the program lifecycle consists of several distinct phases that work together to execute code. The process begins with developers writing Java source code in .java files using an IDE or text editor. This code is then compiled by the Java compiler (javac) into bytecode stored in .class files, with syntax and type checking performed during compilation. When the program runs, the Java Virtual Machine (JVM) loads these compiled class files into memory through a process involving loading of binary data, linking for verification and preparation, and initialization of class elements. The JVM then verifies the bytecode's security compliance, performs Just-In-Time (JIT) compilation to translate bytecode into native machine code for better performance, and executes the program instructions while managing system resources. Throughout execution, the JVM handles garbage collection by reclaiming memory from unused objects, and finally releases all resources upon program termination. This architecture enables Java's "write once, run anywhere" capability since the bytecode can execute on any device with a compatible JVM.
+
+☕ The Java Life Cycle: From Code to Execution
+The journey of a Java program follows the "Write Once, Run Anywhere" (WORA) philosophy, facilitated by the Java Virtual Machine (JVM).
+1. Source Code Creation
+The process begins with the developer writing human-readable code in a text editor or IDE (like IntelliJ IDEA or Eclipse).
+File Extension: The source file must be saved with a .java extension (e.g., Main.java).
+2. Compilation (Build Time)
+The Java Compiler (javac), included in the JDK, translates the source code into an intermediate format.
+Output: A .class file containing Bytecode.
+Platform Independence: This bytecode is not specific to any OS, allowing it to run on any device with a compatible JVM.
+3. Class Loading & Linking
+When the program is run (using the java command), the JVM prepares the code:
+Loading: The ClassLoader brings the .class files into memory.
+Verification: The Bytecode Verifier checks for security violations or illegal instructions.
+Linking: The JVM resolves symbolic references and prepares static variables.
+4. Execution (Run Time)
+The JVM’s Execution Engine converts the platform-neutral bytecode into machine-specific instructions (binary) for the local CPU.
+Interpreter: Reads and executes bytecode line-by-line for a quick start.
+Just-In-Time (JIT) Compiler: Identifies "hot" (frequently used) code and compiles it into native machine code to significantly boost performance.
+5. Garbage Collection & Termination
+Memory Management: The Garbage Collector automatically identifies and removes objects no longer in use to free up heap memory.
+Exit: The program terminates once all non-daemon threads finish or a manual exit command (like System.exit()) is called.
+
+
+
+
+
 
