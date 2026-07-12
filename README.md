@@ -3,10 +3,11 @@ Author-Umesh Pal
 <br>
 ​A comprehensive collection of Java programs, exercises, projects and problem-solving practice designed to master the core concepts of the Java Programming language. This repository serves as a documented learning journey through Object-Oriented Programming (OOPs), data structures & algorithms (DSA), and Java syntax.
 <br>​
-<br>
+
 # 🚀 Overview
 ​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
 <br>
+
 # Project Structure
 ​The repository is organized by topic to make navigation easy:
 ​01-☕ Java Programming Language – Overview
@@ -18,7 +19,6 @@ Author-Umesh Pal
 07-Functions
 08-Binary Number System
 09-Bitwise Operators
-09-
 09-Arrays
 10-Strings
 11-Strings Builder
@@ -72,26 +72,28 @@ Binary Search Trees
 AVL Trees
 B-Trees
 Heap
-<!-- Tree Traversal -->
+
+**Tree Traversal**
 In-Order Traversal
 Pre-Order Traversal
 Post-Order Traversal
-<!-- Search Algorithms -->
+
+**Search Algorithms**
 Breadth First Search
 Depth First Search
 
 # Graph Data Structures
 
-<!-- Search Algorithms -->
+**Search Algorithms**
 Breadth First Search
 Depth First Search
 
-<!-- Shortest Path Algorithms -->
+**Shortest Path Algorithms**
 Dijkstra's Algorithm
 Bellman-Ford Algorithm
 A* Algorithm
 
-<!-- Minimum Spanning Tree -->
+**Minimum Spanning Tree**
 Prim's Algorithm
 Kruskal's Algorithm
 
@@ -130,6 +132,23 @@ Merge Intevals
 Cyclic Sort
 Fast and Slow Pointers
 
+# Strings
+Strings (Part-1)
+Strings (Part-2) Valid Palindrome & Remove all Occurences
+Strings (Part-3) Permutation in String
+Strings (Part-4) Reverse word in a String
+Strings (Part-5) String Compression
+
+
+
+
+
+
+
+
+
+
+
 
 Pair Sum
 Vectors
@@ -152,14 +171,6 @@ Merge Sorted Arrays Problem
 Next Permutation Problem
 C++ STL
 
-# Strings
-Strings (Part-1)
-Strings (Part-2) Valid Palindrome & Remove all Occurences
-Strings (Part-3) Permutation in String
-Strings (Part-4) Reverse word in a String
-Strings (Part-5) String Compression
-
-# 
 
 
 
