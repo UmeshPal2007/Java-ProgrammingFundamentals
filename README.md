@@ -18,7 +18,7 @@ Author-Umesh Pal
 07-Functions
 08-Binary Number System
 09-Bitwise Operators
-09-Time & Space Complexity
+09-
 09-Arrays
 10-Strings
 11-Strings Builder
@@ -27,10 +27,26 @@ Author-Umesh Pal
 14-
 15-Object Oriented Programming(OOPs)
 16-Java Collections Framework
- 
-​Data Structures & Algorithms (DSA)
+
+# ​Data Structures & Algorithms (DSA)
 Maths Required For Data Structures & Algorithms (DSA)
+# Basic Data Structures
 Arrays
+Linked Lists
+Stacks
+Queues
+Hash Tables
+
+# Algorithmic Complexity
+Time & Space Complexity
+
+# Asymptotic Notation
+Big-O Notation
+Big-θ Notation
+
+
+
+
 Pair Sum
 Vectors
 Kadane's Algorithm (Find Maximum Subarray Sum)
@@ -52,11 +68,16 @@ Merge Sorted Arrays Problem
 Next Permutation Problem
 C++ STL
 
+# Strings
 Strings (Part-1)
 Strings (Part-2) Valid Palindrome & Remove all Occurences
 Strings (Part-3) Permutation in String
 Strings (Part-4) Reverse word in a String
 Strings (Part-5) String Compression
+
+# 
+
+
 
 
 # ☕ Java Programming Language – Overview
