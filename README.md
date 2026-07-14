@@ -26,6 +26,11 @@ Author-Umesh Pal
 # Java Collections Basics
 11-Arrays
 12-Strings
+Strings (Part-1)
+Strings (Part-2) Valid Palindrome & Remove all Occurences
+Strings (Part-3) Permutation in String
+Strings (Part-4) Reverse word in a String
+Strings (Part-5) String Compression
 13-Strings Builder
 
 # Phase 4: Object Oriented Programming
@@ -35,12 +40,12 @@ Author-Umesh Pal
 15-Maths Required For Data Structures & Algorithms (DSA)
 16-Time & Space Complexity
 
-# 17-Asymptotic Notation
+# Asymptotic Notation
 Big-O Notation
 Big-θ Notation
 Big-Ω Notation
 
-# 18-Common Runtimes
+# Common Runtimes
 Constant
 Logarithmic
 Linear
@@ -88,11 +93,8 @@ ArrayList
 Linked List
 Stack
 Queue
-Deque
 HashMap
 HashSet
-TreeMap
-TreeSet
 
 # Phase 10: Advanced Data Structures
 Heap (Priority Queue)
@@ -104,13 +106,22 @@ Suffix Trees and Arrays
 
 # Complex Data Structures
 Graph
-Binary Tree
-Binary Search Tree
 AVL Tree
 Red-Black Tree
-B-Tree
+Binary Trees
+Binary Search Trees
+AVL Trees
+B-Trees
+Heap
+Dijkstra's Algorithm
+Bellman-Ford Algorithm
+A* Algorithm
+Prim's Algorithm
+Kruskal's Algorithm
+Tries
 
 # Phase 10: Important Problem Solving Techniques
+Two Pointer Technique
 Brute Force
 Backtracking
 Greedy Algorithms
@@ -119,7 +130,6 @@ Divide & Conquer
 Kth Element
 Recursion
 Dynamic Programming
-Two Pointer Technique
 Sliding Window Technique
 Island Traversal
 Multi-threaded
@@ -127,162 +137,6 @@ two-heaps
 Merge Intevals
 Cyclic Sort
 Fast and Slow Pointers
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Tree Data Structures
-Binary Trees
-Binary Search Trees
-AVL Trees
-B-Trees
-Heap
-
-**Tree Traversal**
-In-Order Traversal
-Pre-Order Traversal
-Post-Order Traversal
-
-**Search Algorithms**
-Breadth First Search
-Depth First Search
-
-# Graph Data Structures
-
-**Search Algorithms**
-Breadth First Search
-Depth First Search
-
-**Shortest Path Algorithms**
-Dijkstra's Algorithm
-Bellman-Ford Algorithm
-A* Algorithm
-
-**Minimum Spanning Tree**
-Prim's Algorithm
-Kruskal's Algorithm
-
-
-
-
-# Indexing
-Linear
-Tree Based
-
-# Strings
-Strings (Part-1)
-Strings (Part-2) Valid Palindrome & Remove all Occurences
-Strings (Part-3) Permutation in String
-Strings (Part-4) Reverse word in a String
-Strings (Part-5) String Compression
-
-
-
-
-
-
-
-
-
-
-
-
-
-Heap
-Tree
-Graph
-Hashing
-
-
-Aggressive Cows Problem
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Explore Java Libraries
 Java Utility Package
@@ -292,7 +146,8 @@ Java Streams
 # SDE SHEET - A Complete Guide for SDE Preparation
 https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/
 
-
+<!-- Extras -->
+# 375 Questions: Company Wise DSA Sheet
 
 
 
