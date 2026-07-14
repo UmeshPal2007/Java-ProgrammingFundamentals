@@ -8,7 +8,7 @@ Author-Umesh Pal
 ​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
 <br>
 
-# Project Structure
+# Phase 1: Java Fundamentals
 ​The repository is organized by topic to make navigation easy:
 ​01-☕ Java Programming Language – Overview
 02-Input/Output Variables & Data types
@@ -16,37 +16,31 @@ Author-Umesh Pal
 04-Conditional Statements
 05-Loops & Nesting
 06-Advanced Patterns Problems
-07-Functions
+07-Functions (Methods)
+
+# Phase 2: Number Systems
 08-Binary Number System
 09-Bitwise Operators
-09-Arrays
-10-Strings
-11-Strings Builder
-12-
-13-Bit Manipulation
-14-
-15-Object Oriented Programming(OOPs)
-16-Java Collections Framework
+10-Bit Manipulation
 
-# ​Data Structures & Algorithms (DSA)
-Maths Required For Data Structures & Algorithms (DSA)
+# Java Collections Basics
+11-Arrays
+12-Strings
+13-Strings Builder
 
-# Basic Data Structures
-Arrays
-Linked Lists
-Stacks
-Queues
-Hash Tables
+# Phase 4: Object Oriented Programming
+14-Object Oriented Programming(OOPs)
 
-# Algorithmic Complexity
-Time & Space Complexity
+# Phase 5: ​Data Structures & Algorithms (DSA) Foundation
+15-Maths Required For Data Structures & Algorithms (DSA)
+16-Time & Space Complexity
 
-# Asymptotic Notation
+# 17-Asymptotic Notation
 Big-O Notation
 Big-θ Notation
 Big-Ω Notation
 
-# Common Runtimes
+# 18-Common Runtimes
 Constant
 Logarithmic
 Linear
@@ -54,17 +48,101 @@ Polynomial
 Exponential
 Factorial
 
-# Sorting Algorithms
+# Phase 6: Searching Algorithms
+Binary Search
+Linear Search
+Ternary Search
+jump Search
+Interpolation Search
+Fibonacci Search
+Exponential Search
+Search in a Rotated Sorted Array
+Peak Index in Mountain (Array Problem)
+Single Element in a Sorted Array
+Book Allocation Problem
+Painter's Partition Problem
+Aggressive Cows Problem
+
+# Phase 7: Sorting Algorithms
 Bubble Sort
 Merge Sort
 Insertion Sort
 Quick Sort
 Selection Sort
 Heap Sort
+Sort an array of 0s, 1s & 2s
+Merge Sorted Arrays Problem
+Next Permutation Problem
 
-# Search Algorithms
-Binary Search
-Linear Search
+# Phase 8: Array Problem Solving
+Pair Sum
+Kadane's Algorithm (Find Maximum Subarray Sum)
+Boyer Moore's Majority Vote Algorithm (Find Majority element in an Array)
+Buy & Sell Stock Problem (Power Exponential Problem)
+Container with most water Problem (Two Pointer Approach)
+Product of an Array except self
+
+# Phase 9: Core Data Structures
+Array
+ArrayList
+Linked List
+Stack
+Queue
+Deque
+HashMap
+HashSet
+TreeMap
+TreeSet
+
+# Phase 10: Advanced Data Structures
+Heap (Priority Queue)
+Trie
+Segment Trees
+Fenwick Trees
+Disjoint Set (Union-Find)
+Suffix Trees and Arrays
+
+# Complex Data Structures
+Graph
+Binary Tree
+Binary Search Tree
+AVL Tree
+Red-Black Tree
+B-Tree
+
+# Phase 10: Important Problem Solving Techniques
+Brute Force
+Backtracking
+Greedy Algorithms
+Randomised Algorithms
+Divide & Conquer
+Kth Element
+Recursion
+Dynamic Programming
+Two Pointer Technique
+Sliding Window Technique
+Island Traversal
+Multi-threaded
+two-heaps
+Merge Intevals
+Cyclic Sort
+Fast and Slow Pointers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Tree Data Structures
 Binary Trees
@@ -97,40 +175,12 @@ A* Algorithm
 Prim's Algorithm
 Kruskal's Algorithm
 
-# Advanced Data Structures
-Trie
-Segment Trees
-Fenwick Trees
-Disjoint Set(Union-Find)
-Suffix Trees and Arrays
 
-# Complex Data Structures
-2-3 Trees
-B/B+ Trees
-Skip List
-ISAM
+
 
 # Indexing
 Linear
 Tree Based
-
-# Problem Solving Techniques
-Brute Force
-Backtracking
-Greedy Algorithms
-Randomised Algorithms
-Divide & Conquer
-Kth Element
-Recursion
-Dynamic Programming
-Two Pointer Technique
-Sliding Window Technique
-Island Traversal
-Multi-threaded
-two-heaps
-Merge Intevals
-Cyclic Sort
-Fast and Slow Pointers
 
 # Strings
 Strings (Part-1)
@@ -150,31 +200,161 @@ Strings (Part-5) String Compression
 
 
 
-Pair Sum
-Vectors
-Kadane's Algorithm (Find Maximum Subarray Sum)
-Boyer Moore's Majority Vote Algorithm (Find Majority element in an Array)
-Buy & Sell Stock Problem (Power Exponential Problem)
-Container with most water Problem (Two Pointer Approach)
-Product of an Array except self
-Pointers
-Binary Search
-Search in a Rotated Sorted Array
-Peak Index in Mountain (Array Problem)
-Single Element in a Sorted Array
-Book Allocation Problem
-Painter's Partition Problem
+
+Heap
+Tree
+Graph
+Hashing
+
+
 Aggressive Cows Problem
-Sorting-(Bubble Sort, Selection Sort, Insertion Sort)
-Sort an array of 0s, 1s & 2s.
-Merge Sorted Arrays Problem
-Next Permutation Problem
-C++ STL
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Explore Java Libraries
+Java Utility Package
+Java Collections Framework
+Java Streams
+
+# SDE SHEET - A Complete Guide for SDE Preparation
+https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start -->
 # ☕ Java Programming Language – Overview
 📌 Introduction
 Java is a high-level, object-oriented programming language known for its platform independence, robustness, and strong security features.
