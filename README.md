@@ -3,47 +3,45 @@ Author-Umesh Pal
 <br>
 ​A comprehensive collection of Java programs, exercises, projects and problem-solving practice designed to master the core concepts of the Java Programming language. This repository serves as a documented learning journey through Object-Oriented Programming (OOPs), data structures & algorithms (DSA), and Java syntax.
 <br>​
-# 🚀 Overview<br>
+## 🚀 Overview<br>
 ​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
 <br>
-# Phase 1: Java Fundamentals<br>
-​The repository is organized by topic to make navigation easy:<br>
-​01-☕ Java Programming Language – Overview<br>
-02-Input/Output Variables & Data types<br>
-03-Operators<br>
-04-Conditional Statements<br>
-05-Loops & Nesting<br>
-06-Advanced Patterns Problems<br>
-07-Functions (Methods)<br>
+## Java Fundamentals
+​The repository is organized by topic to make navigation easy:
+​01-☕ Java Programming Language – Overview
+02-Input/Output Variables & Data types
+03-Operators
+04-Conditional Statements
+05-Loops & Nesting
+06-Advanced Patterns Problems
+07-Functions (Methods)
+08-Binary Number System
+09-Bitwise Operators
+10-Bit Manipulation
 <br>
-# Phase 2: Number Systems<br>
-08-Binary Number System<br>
-09-Bitwise Operators<br>
-10-Bit Manipulation<br>
+## Java Collections Basics
+Arrays
+Strings
+Strings (Part-1)
+        (Part-2) Valid Palindrome & Remove all Occurences
+        (Part-3) Permutation in String
+        (Part-4) Reverse word in a String
+        (Part-5) String Compression
+Strings Builder
 <br>
-# Java Collections Basics<br>
-Arrays<br>
-Strings<br>
-Strings (Part-1)<br>
-        (Part-2) Valid Palindrome & Remove all Occurences<br>
-        (Part-3) Permutation in String<br>
-        (Part-4) Reverse word in a String<br>
-        (Part-5) String Compression<br>
-13-Strings Builder<br>
-<br>
-# Phase 4: Object Oriented Programming<br>
-14-Object Oriented Programming(OOPs)<br>
+## Object Oriented Programming (OOPs)
+Object Oriented Programming(OOPs)
 
-# Phase 5: ​Data Structures & Algorithms (DSA) Foundation
-15-Maths Required For Data Structures & Algorithms (DSA)
-16-Time & Space Complexity
+## ​Data Structures & Algorithms (DSA) Foundation
+Maths Required For Data Structures & Algorithms (DSA)
+Time & Space Complexity
 
-# Asymptotic Notation
+## Asymptotic Notation
 Big-O Notation
 Big-θ Notation
 Big-Ω Notation
 
-# Common Runtimes
+## Common Runtimes
 Constant
 Logarithmic
 Linear
@@ -51,7 +49,7 @@ Polynomial
 Exponential
 Factorial
 
-# Phase 6: Searching Algorithms
+## Searching Algorithms
 Binary Search
 Linear Search
 Ternary Search
@@ -66,7 +64,7 @@ Book Allocation Problem
 Painter's Partition Problem
 Aggressive Cows Problem
 
-# Phase 7: Sorting Algorithms
+## Sorting Algorithms
 Bubble Sort
 Merge Sort
 Insertion Sort
@@ -77,7 +75,7 @@ Sort an array of 0s, 1s & 2s
 Merge Sorted Arrays Problem
 Next Permutation Problem
 
-# Phase 8: Array Problem Solving
+## Array Problem Solving
 Pair Sum
 Kadane's Algorithm (Find Maximum Subarray Sum)
 Boyer Moore's Majority Vote Algorithm (Find Majority element in an Array)
@@ -85,7 +83,7 @@ Buy & Sell Stock Problem (Power Exponential Problem)
 Container with most water Problem (Two Pointer Approach)
 Product of an Array except self
 
-# Phase 9: Core Data Structures
+## Core Data Structures
 Array
 ArrayList
 Linked List
@@ -94,7 +92,7 @@ Queue
 HashMap
 HashSet
 
-# Phase 10: Advanced Data Structures
+## Advanced Data Structures
 Heap (Priority Queue)
 Trie
 Segment Trees
@@ -118,7 +116,7 @@ Prim's Algorithm
 Kruskal's Algorithm
 Tries
 
-# Phase 10: Important Problem Solving Techniques
+## Important Problem Solving Techniques
 Two Pointer Technique
 Brute Force
 Backtracking
@@ -136,12 +134,12 @@ Merge Intevals
 Cyclic Sort
 Fast and Slow Pointers
 
-# Explore Java Libraries
+## Explore Java Libraries
 Java Utility Package
 Java Collections Framework
 Java Streams
 
-# SDE SHEET - A Complete Guide for SDE Preparation
+## SDE SHEET - A Complete Guide for SDE Preparation
 https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/
 
 <!-- Extras -->
