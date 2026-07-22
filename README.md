@@ -18,9 +18,8 @@ Author-Umesh Pal
 8. Binary Number System<br>
 9. Bitwise Operators<br>
 10. Bit Manipulation
-
-## Java Collections Basics
-##Linear Data Structures
+11. Java Collections Framework
+## Linear Data Structures
 ### Arrays
 ### Linked Lists
 ### Stacks
