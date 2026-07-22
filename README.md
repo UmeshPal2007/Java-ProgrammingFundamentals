@@ -19,31 +19,33 @@ Author-Umesh Pal
 9. Bitwise Operators<br>
 10. Bit Manipulation
 11. Java Collections Framework
-## Linear Data Structures
-### Arrays
-### Linked Lists
-### Stacks
-### Queues
-
-### Strings
-Strings (Part-1)
-        (Part-2) Valid Palindrome & Remove all Occurences
-        (Part-3) Permutation in String
-        (Part-4) Reverse word in a String
-        (Part-5) String Compression
-Strings Builder
-
-### Object Oriented Programming (OOPs)
-
+12. Object Oriented Programming (OOPs)
 
 ## ​Data Structures & Algorithms (DSA) Foundation
 Maths Required For Data Structures & Algorithms (DSA)
 Time & Space Complexity
-
-## Asymptotic Notation
+### Asymptotic Notation
 Big-O Notation
 Big-θ Notation
 Big-Ω Notation
+
+## Linear Data Structures
+### Arrays
+
+### Linked Lists
+
+### Stacks
+
+### Queues
+
+### Strings
+1. Strings
+2. Valid Palindrome & Remove all Occurences
+3. Permutation in String
+4. Reverse word in a String
+5. String Compression
+6. Strings Builder
+
 
 ## Common Runtimes
 Constant
