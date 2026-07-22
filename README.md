@@ -8,8 +8,8 @@ Author-Umesh Pal
 <br>
 ## Java Fundamentals
 ​The repository is organized by topic to make navigation easy:
-​01-☕ Java Programming Language – Overview
-02-Input/Output Variables & Data types
+​1. ☕ Java Programming Language – Overview
+. Input/Output Variables & Data types
 03-Operators
 04-Conditional Statements
 05-Loops & Nesting
