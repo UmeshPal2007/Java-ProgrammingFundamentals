@@ -7,17 +7,17 @@ Author-Umesh Pal
 ​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
 <br>
 ## Java Fundamentals
-​The repository is organized by topic to make navigation easy:
+​The repository is organized by topic to make navigation easy:<br>
 ​1. ☕ Java Programming Language – Overview
-. Input/Output Variables & Data types
-03-Operators
-04-Conditional Statements
-05-Loops & Nesting
-06-Advanced Patterns Problems
-07-Functions (Methods)
-08-Binary Number System
-09-Bitwise Operators
-10-Bit Manipulation
+2. Input/Output Variables & Data types
+3. Operators
+4. Conditional Statements
+5. Loops & Nesting
+6. Advanced Patterns Problems
+7. Functions (Methods)
+8. Binary Number System
+9. Bitwise Operators
+10. Bit Manipulation
 <br>
 ## Java Collections Basics
 Arrays
