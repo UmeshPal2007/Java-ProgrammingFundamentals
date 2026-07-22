@@ -53,149 +53,87 @@ Product of an Array except self
 6. Strings Builder
 
 ## Searching Algorithms
-Binary Search
-Linear Search
-Ternary Search
-jump Search
-Interpolation Search
-Fibonacci Search
-Exponential Search
-Search in a Rotated Sorted Array
-Peak Index in Mountain (Array Problem)
-Single Element in a Sorted Array
-Book Allocation Problem
-Painter's Partition Problem
-Aggressive Cows Problem
+Binary Search<br>
+Linear Search<br>
+Ternary Search<br>
+jump Search<br>
+Interpolation Search<br>
+Fibonacci Search<br>
+Exponential Search<br>
+Search in a Rotated Sorted Array<br>
+Peak Index in Mountain (Array Problem)<br>
+Single Element in a Sorted Array<br>
+Book Allocation Problem<br>
+Painter's Partition Problem<br>
+Aggressive Cows Problem<br>
 
 ## Sorting Algorithms
-Bubble Sort
-Merge Sort
-Insertion Sort
-Quick Sort
-Selection Sort
-Heap Sort
-Sort an array of 0s, 1s & 2s
-Merge Sorted Arrays Problem
-Next Permutation Problem
+Bubble Sort<br>
+Merge Sort<br>
+Insertion Sort<br>
+Quick Sort<br>
+Selection Sort<br>
+Heap Sort<br>
+Sort an array of 0s, 1s & 2s<br>
+Merge Sorted Arrays Problem<br>
+Next Permutation Problem<br>
 
 ## Non-Linear Data Structures
 ### Trees
-AVL Tree
-Red-Black Tree
-Binary Trees
-Binary Search Trees
-AVL Trees
-B-Trees
-Heap
-Trie
+AVL Tree<br>
+Red-Black Tree<br>
+Binary Trees<br>
+Binary Search Trees<br>
+AVL Trees<br>
+B-Trees<br>
+Heap<br>
+Trie<br>
 
 ### Graphs
+Dijkstra's Algorithm<br>
+Bellman-Ford Algorithm<br>
+A* Algorithm<br>
+Prim's Algorithm<br>
+Kruskal's Algorithm<br>
+
 ### Sets & Hash Based Structures
-HashMap
-HashSet
+HashMap<br>
+HashSet<br>
 
 ## Advanced Data Structures
 
-# Complex Data Structures
-
-
-
-
 ## Important Problem Solving Techniques
-Two Pointer Technique
-Brute Force
-Backtracking
-Greedy Algorithms
-Randomised Algorithms
-Divide & Conquer
-Kth Element
-Recursion
-Dynamic Programming
-Sliding Window Technique
-Island Traversal
-Multi-threaded
-two-heaps
-Merge Intevals
-Cyclic Sort
-Fast and Slow Pointers
+Two Pointer Technique<br>
+Brute Force<br>
+Backtracking<br>
+Greedy Algorithms<br>
+Randomised Algorithms<br>
+Divide & Conquer<br>
+Kth Element<br>
+Recursion<br>
+Dynamic Programming<br>
+Sliding Window Technique<br>
+Island Traversal<br>
+Multi-threaded<br>
+two-heaps<br>
+Merge Intevals<br>
+Cyclic Sort<br>
+Fast and Slow Pointers<br>
 
 ## Explore Java Libraries
-Java Utility Package
-Java Collections Framework
-Java Streams
+Java Utility Package<br>
+Java Collections Framework<br>
+Java Streams<br>
 
 ## SDE SHEET - A Complete Guide for SDE Preparation
-https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/
+https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation/<br>
 
 <!-- Extras -->
 # 375 Questions: Company Wise DSA Sheet
+<br>
 
-
-
-<!-- Dijkstra's Algorithm
-Bellman-Ford Algorithm
-A* Algorithm
-Prim's Algorithm
-Kruskal's Algorithm -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Start -->
-# ☕ Java Programming Language – Overview
+# Starting Of Concepts:
+## ☕ Java Programming Language – Overview
 📌 Introduction
 Java is a high-level, object-oriented programming language known for its platform independence, robustness, and strong security features.
 It follows the principle:
@@ -366,7 +304,7 @@ My name is Umesh Pal
 </pre>
 
 
-# Input/Output Variables & Data Types
+## Input/Output Variables & Data Types
 Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
 
 Data Types are divided into two group -
@@ -379,7 +317,7 @@ Java is a strongly typed programming language, which means:
 👉 You must declare the data type of a variable before using it.
 
 
-# Lifecycle of a Program
+## Lifecycle of a Program
 In Java, the program lifecycle consists of several distinct phases that work together to execute code. The process begins with developers writing Java source code in .java files using an IDE or text editor. This code is then compiled by the Java compiler (javac) into bytecode stored in .class files, with syntax and type checking performed during compilation. When the program runs, the Java Virtual Machine (JVM) loads these compiled class files into memory through a process involving loading of binary data, linking for verification and preparation, and initialization of class elements. The JVM then verifies the bytecode's security compliance, performs Just-In-Time (JIT) compilation to translate bytecode into native machine code for better performance, and executes the program instructions while managing system resources. Throughout execution, the JVM handles garbage collection by reclaiming memory from unused objects, and finally releases all resources upon program termination. This architecture enables Java's "write once, run anywhere" capability since the bytecode can execute on any device with a compatible JVM.
 
 ☕ The Java Life Cycle: From Code to Execution
@@ -404,8 +342,4 @@ Just-In-Time (JIT) Compiler: Identifies "hot" (frequently used) code and compile
 Memory Management: The Garbage Collector automatically identifies and removes objects no longer in use to free up heap memory.
 Exit: The program terminates once all non-daemon threads finish or a manual exit command (like System.exit()) is called.
 
-
-
-
-
-
+## Operators
