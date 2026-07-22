@@ -4,8 +4,8 @@ Author-Umesh Pal
 ​A comprehensive collection of Java programs, exercises, projects and problem-solving practice designed to master the core concepts of the Java Programming language. This repository serves as a documented learning journey through Object-Oriented Programming (OOPs), data structures & algorithms (DSA), and Java syntax.
 
 ## 🚀 Overview
-​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
-
+​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles & Data Structures & Algorithms.
+# Contents
 ## Java Fundamentals
 ​The repository is organized by topic to make navigation easy:<br>
 ​1. ☕ Java Programming Language – Overview<br>
@@ -31,6 +31,12 @@ Big-Ω Notation<br>
 
 ## Linear Data Structures
 ### Arrays
+Pair Sum
+Kadane's Algorithm (Find Maximum Subarray Sum)
+Boyer Moore's Majority Vote Algorithm (Find Majority element in an Array)
+Buy & Sell Stock Problem (Power Exponential Problem)
+Container with most water Problem (Two Pointer Approach)
+Product of an Array except self
 
 ### Linked Lists
 
@@ -45,15 +51,6 @@ Big-Ω Notation<br>
 4. Reverse word in a String
 5. String Compression
 6. Strings Builder
-
-
-## Common Runtimes
-Constant
-Logarithmic
-Linear
-Polynomial
-Exponential
-Factorial
 
 ## Searching Algorithms
 Binary Search
@@ -81,33 +78,8 @@ Sort an array of 0s, 1s & 2s
 Merge Sorted Arrays Problem
 Next Permutation Problem
 
-## Array Problem Solving
-Pair Sum
-Kadane's Algorithm (Find Maximum Subarray Sum)
-Boyer Moore's Majority Vote Algorithm (Find Majority element in an Array)
-Buy & Sell Stock Problem (Power Exponential Problem)
-Container with most water Problem (Two Pointer Approach)
-Product of an Array except self
-
-## Core Data Structures
-Array
-ArrayList
-Linked List
-Stack
-Queue
-HashMap
-HashSet
-
-## Advanced Data Structures
-Heap (Priority Queue)
-Trie
-Segment Trees
-Fenwick Trees
-Disjoint Set (Union-Find)
-Suffix Trees and Arrays
-
-# Complex Data Structures
-Graph
+## Non-Linear Data Structures
+### Trees
 AVL Tree
 Red-Black Tree
 Binary Trees
@@ -115,12 +87,19 @@ Binary Search Trees
 AVL Trees
 B-Trees
 Heap
-Dijkstra's Algorithm
-Bellman-Ford Algorithm
-A* Algorithm
-Prim's Algorithm
-Kruskal's Algorithm
-Tries
+Trie
+
+### Graphs
+### Sets & Hash Based Structures
+HashMap
+HashSet
+
+## Advanced Data Structures
+
+# Complex Data Structures
+
+
+
 
 ## Important Problem Solving Techniques
 Two Pointer Technique
@@ -153,7 +132,11 @@ https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation
 
 
 
-
+<!-- Dijkstra's Algorithm
+Bellman-Ford Algorithm
+A* Algorithm
+Prim's Algorithm
+Kruskal's Algorithm -->
 
 
 
