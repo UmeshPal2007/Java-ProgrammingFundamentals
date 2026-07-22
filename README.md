@@ -22,12 +22,12 @@ Author-Umesh Pal
 12. Object Oriented Programming (OOPs)
 
 ## ​Data Structures & Algorithms (DSA) Foundation
-Maths Required For Data Structures & Algorithms (DSA)
-Time & Space Complexity
+Maths Required For Data Structures & Algorithms (DSA)<br>
+Time & Space Complexity<br>
 ### Asymptotic Notation
-Big-O Notation
-Big-θ Notation
-Big-Ω Notation
+Big-O Notation<br>
+Big-θ Notation<br>
+Big-Ω Notation<br>
 
 ## Linear Data Structures
 ### Arrays
