@@ -3,38 +3,36 @@ Author-Umesh Pal
 <br>
 ​A comprehensive collection of Java programs, exercises, projects and problem-solving practice designed to master the core concepts of the Java Programming language. This repository serves as a documented learning journey through Object-Oriented Programming (OOPs), data structures & algorithms (DSA), and Java syntax.
 <br>​
-<br>
-# 🚀 Overview
+# 🚀 Overview<br>
 ​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
-<br>
 <br>
 # Phase 1: Java Fundamentals<br>
 ​The repository is organized by topic to make navigation easy:<br>
 ​01-☕ Java Programming Language – Overview<br>
-02-Input/Output Variables & Data types
-03-Operators
-04-Conditional Statements
-05-Loops & Nesting
-06-Advanced Patterns Problems
-07-Functions (Methods)
-
-# Phase 2: Number Systems
-08-Binary Number System
-09-Bitwise Operators
-10-Bit Manipulation
-
-# Java Collections Basics
-11-Arrays
-12-Strings
-Strings (Part-1)
-Strings (Part-2) Valid Palindrome & Remove all Occurences
-Strings (Part-3) Permutation in String
-Strings (Part-4) Reverse word in a String
-Strings (Part-5) String Compression
-13-Strings Builder
-
-# Phase 4: Object Oriented Programming
-14-Object Oriented Programming(OOPs)
+02-Input/Output Variables & Data types<br>
+03-Operators<br>
+04-Conditional Statements<br>
+05-Loops & Nesting<br>
+06-Advanced Patterns Problems<br>
+07-Functions (Methods)<br>
+<br>
+# Phase 2: Number Systems<br>
+08-Binary Number System<br>
+09-Bitwise Operators<br>
+10-Bit Manipulation<br>
+<br>
+# Java Collections Basics<br>
+Arrays<br>
+Strings<br>
+Strings (Part-1)<br>
+        (Part-2) Valid Palindrome & Remove all Occurences<br>
+        (Part-3) Permutation in String<br>
+        (Part-4) Reverse word in a String<br>
+        (Part-5) String Compression<br>
+13-Strings Builder<br>
+<br>
+# Phase 4: Object Oriented Programming<br>
+14-Object Oriented Programming(OOPs)<br>
 
 # Phase 5: ​Data Structures & Algorithms (DSA) Foundation
 15-Maths Required For Data Structures & Algorithms (DSA)
