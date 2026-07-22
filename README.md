@@ -11,12 +11,12 @@ Author-Umesh Pal
 ​1. ☕ Java Programming Language – Overview<br>
 2. Input/Output Variables & Data types<br>
 3. Operators<br>
-4. Conditional Statements
-5. Loops & Nesting
-6. Advanced Patterns Problems
-7. Functions (Methods)
-8. Binary Number System
-9. Bitwise Operators
+4. Conditional Statements<br>
+5. Loops & Nesting<br>
+6. Advanced Patterns Problems<br>
+7. Functions (Methods)<br>
+8. Binary Number System<br>
+9. Bitwise Operators<br>
 10. Bit Manipulation
 <br>
 ## Java Collections Basics
