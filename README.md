@@ -2,10 +2,10 @@
 Author-Umesh Pal
 <br>
 ​A comprehensive collection of Java programs, exercises, projects and problem-solving practice designed to master the core concepts of the Java Programming language. This repository serves as a documented learning journey through Object-Oriented Programming (OOPs), data structures & algorithms (DSA), and Java syntax.
-<br>​
-## 🚀 Overview<br>
+
+## 🚀 Overview
 ​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
-<br>
+
 ## Java Fundamentals
 ​The repository is organized by topic to make navigation easy:<br>
 ​1. ☕ Java Programming Language – Overview<br>
@@ -18,19 +18,24 @@ Author-Umesh Pal
 8. Binary Number System<br>
 9. Bitwise Operators<br>
 10. Bit Manipulation
-<!-- <br> -->
+
 ## Java Collections Basics
-Arrays
-Strings
+##Linear Data Structures
+### Arrays
+### Linked Lists
+### Stacks
+### Queues
+
+### Strings
 Strings (Part-1)
         (Part-2) Valid Palindrome & Remove all Occurences
         (Part-3) Permutation in String
         (Part-4) Reverse word in a String
         (Part-5) String Compression
 Strings Builder
-<br>
-## Object Oriented Programming (OOPs)
-Object Oriented Programming(OOPs)
+
+### Object Oriented Programming (OOPs)
+
 
 ## ​Data Structures & Algorithms (DSA) Foundation
 Maths Required For Data Structures & Algorithms (DSA)
