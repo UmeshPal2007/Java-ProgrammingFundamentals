@@ -8,9 +8,9 @@ Author-Umesh Pal
 ​This repository contains structured code examples and documentation for anyone looking to build a strong foundation in Java. It covers everything from basic syntax to advanced OOPs principles Data Structures & Algorithms.
 <br>
 <br>
-# Phase 1: Java Fundamentals
-​The repository is organized by topic to make navigation easy:
-​01-☕ Java Programming Language – Overview
+# Phase 1: Java Fundamentals<br>
+​The repository is organized by topic to make navigation easy:<br>
+​01-☕ Java Programming Language – Overview<br>
 02-Input/Output Variables & Data types
 03-Operators
 04-Conditional Statements
