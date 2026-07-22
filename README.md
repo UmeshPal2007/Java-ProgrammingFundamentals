@@ -18,7 +18,7 @@ Author-Umesh Pal
 8. Binary Number System<br>
 9. Bitwise Operators<br>
 10. Bit Manipulation
-<br>
+<!-- <br> -->
 ## Java Collections Basics
 Arrays
 Strings
