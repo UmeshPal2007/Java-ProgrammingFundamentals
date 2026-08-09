@@ -31,12 +31,6 @@ Big-Ω Notation<br>
 
 ## Linear Data Structures
 ### Arrays
-Pair Sum
-Kadane's Algorithm (Find Maximum Subarray Sum)
-Boyer Moore's Majority Vote Algorithm (Find Majority element in an Array)
-Buy & Sell Stock Problem (Power Exponential Problem)
-Container with most water Problem (Two Pointer Approach)
-Product of an Array except self
 
 ### Linked Lists
 
@@ -45,27 +39,8 @@ Product of an Array except self
 ### Queues
 
 ### Strings
-1. Strings
-2. Valid Palindrome & Remove all Occurences
-3. Permutation in String
-4. Reverse word in a String
-5. String Compression
-6. Strings Builder
 
 ## Searching Algorithms
-Binary Search<br>
-Linear Search<br>
-Ternary Search<br>
-jump Search<br>
-Interpolation Search<br>
-Fibonacci Search<br>
-Exponential Search<br>
-Search in a Rotated Sorted Array<br>
-Peak Index in Mountain (Array Problem)<br>
-Single Element in a Sorted Array<br>
-Book Allocation Problem<br>
-Painter's Partition Problem<br>
-Aggressive Cows Problem<br>
 
 ## Sorting Algorithms
 Bubble Sort<br>
@@ -74,33 +49,15 @@ Insertion Sort<br>
 Quick Sort<br>
 Selection Sort<br>
 Heap Sort<br>
-Sort an array of 0s, 1s & 2s<br>
-Merge Sorted Arrays Problem<br>
-Next Permutation Problem<br>
 
-## Non-Linear Data Structures
+## Advanced Data Structure (Non-Linear Data Structures)
 ### Trees
-AVL Tree<br>
-Red-Black Tree<br>
-Binary Trees<br>
-Binary Search Trees<br>
-AVL Trees<br>
-B-Trees<br>
-Heap<br>
-Trie<br>
 
 ### Graphs
-Dijkstra's Algorithm<br>
-Bellman-Ford Algorithm<br>
-A* Algorithm<br>
-Prim's Algorithm<br>
-Kruskal's Algorithm<br>
 
 ### Sets & Hash Based Structures
 HashMap<br>
 HashSet<br>
-
-## Advanced Data Structures
 
 ## Important Problem Solving Techniques
 Two Pointer Technique<br>
@@ -131,6 +88,7 @@ https://www.geeksforgeeks.org/dsa/sde-sheet-a-complete-guide-for-sde-preparation
 <!-- Extras -->
 # 375 Questions: Company Wise DSA Sheet
 <br>
+<!-- Starting  -->
 
 # Starting Of Concepts:
 ## ☕ Java Programming Language – Overview
@@ -258,51 +216,9 @@ Basic Print Statement
 <pre>
 System.out.print("Hello World");
 </pre>
-🔍 Breakdown
-System → Class
-out → Output stream
-print() → Function (method)
-"Hello World" → Output text
-; → Statement terminator
-
-📌 Printing with New Line
-<pre>
-System.out.println("Hello World");
-System.out.print("Umesh pal");
-</pre>
-
-✅ Output:
-<pre>
-Hello World
-Umesh pal
-</pre>
-
-⚡ Pro Tip
-In VS Code, you can use shortcut:
-<pre>
-sysout + Tab/Enter
-</pre>
-👉 It auto-generates: System.out.println()
-
-In IntelliJ IDEA:
-<pre>
-"sout" + Tab/Enter
-</pre>
 👉 It auto-generates: System.out.println() 
 
 \n is used to move the output to the next line.
-✅ Example:
-<pre>
-System.out.print("Hello World\n");
-System.out.print("My name is Umesh Pal");
-</pre>
-
-📌 Output:
-<pre>
-Hello World
-My name is Umesh Pal
-</pre>
-
 
 ## Input/Output Variables & Data Types
 Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned a data type, which designates the type and quantity of values it can hold. Variable is a memory location name of the data. The Java variables have mainly three types: Local, Instance and Static.
